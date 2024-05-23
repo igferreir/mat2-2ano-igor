@@ -73,3 +73,7 @@ body{
 .rodape{
     background-color: #8A8686;
 }
+
+.rodape-imagen{
+    height: 60px;
+}
